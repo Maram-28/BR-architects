@@ -1,0 +1,215 @@
+body{
+    margin:0;
+    padding:0;
+}
+.logo{
+    font-size: 36px;
+    font-family: Segoe UI;
+    margin-left: 40px;
+}
+.links{
+    margin-left: 63%;
+}
+.links a{
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.navbar{
+    padding: 20px 0;
+    box-shadow: 0px 8px 20px grey;
+}
+.BG{
+    background-image: url(images/architect.jpg);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.BGC{
+    text-align: center;
+    color: white;
+    padding-top: 400px;
+    font-family: Segoe UI;
+    font-size: 40px;
+}
+.BR{
+    background-color: black;
+    opacity: 0.8;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.ARCH{
+    padding-left: 15px;
+}
+hr{
+   border: 1px solid gray;
+}
+.image1{
+    background-image: url(images/house1.jpg);
+    width: 250px;
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.image2{
+    background-image: url(images/house2.jpg);
+    width: 25em;
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.image3{
+    background-image: url(images/house3.jpg);
+    width: 25em;
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.image4{
+    background-image: url(images/house4.jpg);
+    width: 25em;
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.image5{
+    background-image: url(images/house2.jpg);
+    width: 25em;
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.image6{
+    background-image: url(images/house6.jpg);
+    width: 25em;
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.image7{
+    background-image: url(images/house4.jpg);
+    width: 25em;
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.image8{
+    background-image: url(images/house4.jpg);
+    width: 25em;
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.imagetit{
+    background-color: black;
+    font-size: 20px;
+    color: white;
+    font-family: Verdana;
+    display: block;
+   
+    
+}
+.Projects{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Segoe UI;
+}
+.About{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Segoe UI;
+    
+}
+.contact-card{
+    text-align: center;
+    width: 25em;
+    height: 250px;
+    
+}
+.contact-name,.job-description{
+    font-size:20px;
+    font-family: verdana;
+    text-align: center;
+}
+.contact-name{
+    color:black;
+}
+.job-description{
+    color:grey;
+    font-weight: lighter;
+}
+.Contact{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Segoe UI; 
+}
+p{
+    font-family: Verdana; 
+    margin: 0;
+}
+table,tr,td{
+    padding:0;
+    margin:0;
+    border:none;
+}
+td{
+    vertical-align: top;
+}
+.taswira{
+    width: 95%;
+    height: 350px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.bouton{
+    background-color:rgb(161, 156, 156);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Verdana;
+    font-size: 20px;
+    width: 50%;
+    padding: 14px 40px;
+    
+}
+.submit{
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 20px;
+    
+}
+.zonetext{
+    width: 100%;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    border: 2px solid gray;
+}
+.map{
+    width: 93%;
+    height: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+
+
+
+
